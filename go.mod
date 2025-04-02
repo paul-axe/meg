@@ -1,4 +1,4 @@
-module github.com/tomnomnom/meg
+module github.com/paul-axe/meg
 
 go 1.18
 
